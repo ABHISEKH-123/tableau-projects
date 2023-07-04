@@ -2,7 +2,7 @@
 
 This project is for visualizing sales figures for Superstore across different states of United States of America. It is built from Excel data files and provides a comprehensive view of the scale and scope of Superstore's sales. It provides valuable insights into the performance of different categories and sub-categories of products listed on Superstore over a period of time. It also encompasses a wide range of metrics, including sales revenue,units sold,cost price,profit and profit margin. The data has been examined on a Yearly basis and segmented by geographical regions and product attributes. It can be further extended to support varying time intervals and more categories and sub-categories.
 
-![Alt text](Superstore_dashboard.png?raw=true "Title")  
+![Alt text](Superstore_dashboard.PNG?raw=true "Title")  
 
 ## Superstore data business problems and insights  
 
@@ -33,18 +33,18 @@ This project is for visualizing sales figures for Superstore across different st
 ### What is profit margin?  
 The profit margin is the ratio of profit to sales revenue.  
 
-![Alt text](profit_margin.png?raw=true "Title")
+![Alt text](profit_margin.PNG?raw=true "Title")
 
 ### What is customer retention ?  
 Customer retention refers to the ability of a company or product to retain its customers over some specified period.High customer retention means customers of the product or business tend to return to, 
 continue to buy or in some other way not defect to another product or business, or to non-use entirely.  
 
-![Alt text](retention.png?raw=true "Title")
+![Alt text](retention.PNG?raw=true "Title")
 
 ### What is Year over Year growth ?  
 Year-over-year growth compares a company's recent financial performance with its numbers for the same month one year earlier.  
 
-![Alt text](year.png?raw=true "Title")
+![Alt text](year.PNG?raw=true "Title")
 
 ### What is no. of orders per customer ?  
 Orders per customer is a basic ecommerce metric, showing how many orders each customer places on average over their customer lifecycle. It is important for ecommerce brands because it correlates with customer retention and satisfaction. Clearly, the more orders people place, the more they like your products.  

@@ -2,7 +2,7 @@
 
 This project is for visualizing credit card usage trends across different cities of India. It is built from CSV data files and provides a comprehensive view of the scale of credit card transactions. It provides valuable insights into the transaction of different cities over a period of time.  It also encompasses a wide range of metrics, including amount paid through tranaction and count of transaction across different cities in India. The data has been examined on a Quarterly basis and segmented by geographical regions. It can be further extended to support varying time intervals and distribution of expenses in different sectors on the basis of gender.  
 
-![Alt text](Creditcard_dashboard.png?raw=true "Title")
+![Alt text](Creditcard_dashboard.PNG?raw=true "Title")
 
 ## Credit card usage trends, business problems and insights
 
@@ -37,7 +37,7 @@ You can use the pre-approved limit to make purchases and repay the borrowed amou
 
 A gold card is a special type of credit card that gives you extra benefits such as a higher spending limit.  
 
-![Alt text](gold.png?raw=true "Title")
+![Alt text](gold.PNG?raw=true "Title")
 
 ### What is a silver card?  
 
@@ -47,20 +47,20 @@ Convenient Easy Payment Plans starting from as low as 0%
 Competitive interest rates
 High cash advance limit of up to 90%.  
 
-![Alt text](silver_card.png?raw=true "Title")
+![Alt text](silver_card.PNG?raw=true "Title")
 
 ### What is a platinum card?  
 
 A platinum credit card is a type of premium credit card that offers more benefits and perks than a standard credit card. For example, it may offer higher credit limits, rewards points, complimentary insurances and airport lounge access.  
 
-![Alt text](platinum.png?raw=true "Title")
+![Alt text](platinum.PNG?raw=true "Title")
 
 ### What is a signature card?  
 
 The Signature Credit Card lets you spend flexibly over and above your credit limit without any extra charges.
 You can get 15% discount on dining as benefits of Signature Credit Card.  
 
-![Alt text](signature.png?raw=true "Title")
+![Alt text](signature.PNG?raw=true "Title")
 
 
 

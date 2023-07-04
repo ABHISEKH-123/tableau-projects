@@ -2,7 +2,7 @@
 
 This project is for visualizing attrition for an organisation across different spectrums. It is built from CSV data files and provides a comprehensive view of the scale and scope of attrition in different domains within an organisation. It provides valuable insights into the attrition with respect to Department,Experience,age,gender and education field. It also encompasses a wide range of metrics,employee count,attrition count,attrition rate and active employee rate. The data also provides valuable insights regarding criteria for promotion for all the active employees. 
 
-![Alt text](HR_Attrition.png?raw=true "Title")  
+![Alt text](HR_Attrition.PNG?raw=true "Title")  
 
 ## HR Attrition business problems and insights  
 
@@ -38,7 +38,7 @@ Attrition is the departure of employees from the organization for any reason (vo
 Attrition rate is the rate at which employees leave an organization divided by the average number of employees at the organization over a given period of time.  
 
 
-![Alt text](attrition_formula.png?raw=true "Title") 
+![Alt text](attrition_formula.PNG?raw=true "Title") 
 
 ### Types of attrition in Hr?  
 Four types are  
@@ -47,7 +47,7 @@ Four types are
 3. Internal attrition :- When an employee moves into a different section with an organisation.  
 4. Demographic attrition :- An employee has to leave to catre for a family member.  
 
-![Alt text](attrition.png?raw=true "Title")  
+![Alt text](attrition.PNG?raw=true "Title")  
 
 ### Who is an active employee?  
 

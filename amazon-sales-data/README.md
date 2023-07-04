@@ -2,7 +2,7 @@
 
 This project is for visualizing sales figures for Amazon across different states of India. It is built from CSV data files and provides a comprehensive view of the scale and scope of Amazon's sales. It provides valuable insights into the performance of different categories of products listed on Amazon over a period of time. It also encompasses a wide range of metrics, including sales revenue and units sold. The data has been examined on a weekly basis and segmented by geographical regions and product attributes. It can be further extended to support varying time intervals and more categories.
 
-![Alt text](amazon_dashboard.png?raw=true "Title")
+![Alt text](amazon_dashboard.PNG?raw=true "Title")
 
 ## Amazon sales data business problems and insights
 
@@ -42,7 +42,7 @@ The different order status in e-commerce are :
 2. Unshipped
 3. Cancelled.  
 
-![Alt text](tracking.png?raw=true "Title")
+![Alt text](tracking.PNG?raw=true "Title")
 
 
 
